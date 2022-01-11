@@ -1,0 +1,16 @@
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.csproj.AssemblyReference.cache
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.AssemblyInfoInputs.cache
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.AssemblyInfo.cs
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\bin\Debug\net5.0\ATMProject.exe
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\bin\Debug\net5.0\ATMProject.deps.json
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\bin\Debug\net5.0\ATMProject.runtimeconfig.json
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\bin\Debug\net5.0\ATMProject.runtimeconfig.dev.json
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\bin\Debug\net5.0\ATMProject.dll
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\bin\Debug\net5.0\ref\ATMProject.dll
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\bin\Debug\net5.0\ATMProject.pdb
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.dll
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ref\ATMProject.dll
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.pdb
+C:\Users\baris.kucuk\OneDrive - Authority Partners Inc\Desktop\ATMProject\obj\Debug\net5.0\ATMProject.genruntimeconfig.cache
